@@ -16,7 +16,7 @@
 
 [Release Changelog](https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.2.md)
 
-## 1.0.3
+## 16.0.5
 
 - Forgejo release 16.0.5
 
